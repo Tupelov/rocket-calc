@@ -1,0 +1,5 @@
+coef: {cd: 0.7, of_ratio: 1.46, p_lox: 1.141, p_ipa: 0.786}
+mass_flow: 1.7495
+mass_flow_ipa: 0.7111788617886179
+mass_flow_lox: 1.0383211382113822
+delatap: 1654741.7496
